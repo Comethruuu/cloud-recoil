@@ -16,8 +16,8 @@
    ```bash
    Config.Recoil = {
     [GetHashKey("weapon_minismg")] = 2.0,
-    ...
-   }```
+   }
+   ```
 2. Ubah nilai recoil (contoh: 1.0, 2.5, dll)
 
 ## 🚀 Preview
