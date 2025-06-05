@@ -1,4 +1,3 @@
----- LOCAL CONFIG
 local Config = {}
 
 Config.Recoil = {
@@ -13,9 +12,10 @@ Config.Recoil = {
 
     -- SNIPER
     [GetHashKey("weapon_heavysniper")] = 5.0,
+
+    -- etc.
 }
 
-----
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(0)
