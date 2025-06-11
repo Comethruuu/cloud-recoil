@@ -23,9 +23,11 @@
 2. Ubah nilai recoil (contoh: 1.0, 2.5, dll)
 
 ## 🚀 Preview
-```bash
-https://streamable.com/7ufgkm
-```
+
+![Preview](https://imgur.com/utOVicj.gif)
+
+
+
 ## 🧑‍💻 Author
 
 [Cloud](https://github.com/Comethruuu)
