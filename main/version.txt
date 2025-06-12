@@ -1,4 +1,1 @@
-1.2 
-
-- Add explosive effect
-- Easy configure
+1.3
