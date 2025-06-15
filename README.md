@@ -1,6 +1,6 @@
 
 ---
-# 🔫 Weapon Recoil FiveM [ESX / QB Core] [ID]
+# 🔫 Weapon Recoil FiveM [ESX / QB Core / Standalone]
 
 ---
 ## 🛠 Installation
